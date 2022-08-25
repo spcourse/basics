@@ -1,15 +1,9 @@
 # Git
+Git is a tool that is designed to store, maintain and collaborate on programming projects. GitHub is the most popular website for hosting Git repositories. Learn more about how to use git.
 
 ![embed](https://www.youtube.com/embed/NcoBAfJ6l2Q)
 
-[Open in CS50 Video Player](https://video.cs50.io/NcoBAfJ6l2Q?screen=SU-QJbAZptI)
-
-
-## Introduction
-
-Welcome back to lecture 1! In lecture 0, we introduced HTML, CSS, and Sass as tools we can use to create some basic web pages. Today, we'll be learning about using Git and GitHub to help us in developing web programming applications.
-
-
+## Lecture notes
 
 ## Git
 
